@@ -4,5 +4,5 @@ We're the organizer team behind the CWT Drinkup. Join us on [Meetup](https://www
 
 Follow us on the internet:
 
-[Meetup](https://www.meetup.com/cwtdrinkup/)
-[LinkedIn](https://www.linkedin.com/company/cwtdrinkup/)
+* [Meetup](https://www.meetup.com/cwtdrinkup/)
+* [LinkedIn](https://www.linkedin.com/company/cwtdrinkup/)
